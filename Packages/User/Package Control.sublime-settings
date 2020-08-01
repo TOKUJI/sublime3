@@ -5,6 +5,10 @@
 	],
 	"installed_packages":
 	[
-		"Emacs Pro Essentials"
+		"ConvertToUTF8",
+		"Emacs Pro Essentials",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeLinter"
 	]
 }
