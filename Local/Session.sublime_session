@@ -1,0 +1,1305 @@
+{
+	"folder_history":
+	[
+		"/home/toshio/work/kakunin-backend",
+		"/home/toshio/work/backend",
+		"/home/toshio/work/batches",
+		"/home/toshio/work/docs",
+		"/home/toshio"
+	],
+	"last_version": 3211,
+	"last_window_id": 18,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"null",
+						"nullable\tabc"
+					],
+					[
+						"if",
+						"ifmain\tif __name__ == '__main__'"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						"Syntax Check"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"git check",
+						"Git: Checkout Current File"
+					],
+					[
+						"markdow",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"install package",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/toshio/work/docs/docs/tables/company_modify_status_table.md",
+				"/home/toshio/work/docs/docs/tables/companies_table.md",
+				"/home/toshio/work/docs/docs/tables/make_table_definition.py",
+				"/home/toshio/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/toshio/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/toshio/.gitconfig",
+				"/home/toshio/work/Kakunin-web/.git/config",
+				"/home/toshio/.zshrc"
+			],
+			"find":
+			{
+				"height": 25.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"text",
+					"\\t"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"boolean",
+					"    "
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 37.0
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 70.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 68.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 213.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"null",
+						"nullable\tabc"
+					],
+					[
+						"if",
+						"ifmain\tif __name__ == '__main__'"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/toshio/work/docs/docs/tables/asked_history_table.md",
+					"settings":
+					{
+						"buffer_size": 751,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/toshio/work/docs/docs/tables/defs.txt",
+					"settings":
+					{
+						"buffer_size": 23581,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/toshio/work/docs/docs/tables/offices_table.md",
+					"settings":
+					{
+						"buffer_size": 15357,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/toshio/work/docs/docs/tables/make_table_definition.py",
+					"settings":
+					{
+						"buffer_size": 1443,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "Packages/Python/Python.sublime-build",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						"Syntax Check"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"git check",
+						"Git: Checkout Current File"
+					],
+					[
+						"markdow",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"install package",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/toshio/work/docs",
+				"/home/toshio/work/docs/docs",
+				"/home/toshio/work/docs/docs/css",
+				"/home/toshio/work/docs/docs/tables"
+			],
+			"file_history":
+			[
+				"/home/toshio/work/docs/docs/tables/company_modify_status_table.md",
+				"/home/toshio/work/docs/docs/tables/companies_table.md",
+				"/home/toshio/work/docs/docs/tables/make_table_definition.py",
+				"/home/toshio/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/toshio/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/toshio/.gitconfig",
+				"/home/toshio/work/Kakunin-web/.git/config",
+				"/home/toshio/.zshrc"
+			],
+			"find":
+			{
+				"height": 25.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"text",
+					"\\t"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"boolean",
+					"    "
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/toshio/work/docs"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/toshio/work/docs/docs/tables/asked_history_table.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 751,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										751,
+										751
+									]
+								],
+								"settings":
+								{
+									"git_gutter_is_enabled": true,
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+									"touched": 1600262526.56
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/toshio/work/docs/docs/tables/defs.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 23581,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1699,
+										1699
+									]
+								],
+								"settings":
+								{
+									"git_gutter_is_enabled": true,
+									"is_init_dirty_state": false,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+									"touched": 1600358251.76
+								},
+								"translation.x": 0.0,
+								"translation.y": 369.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/toshio/work/docs/docs/tables/offices_table.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 15357,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4283,
+										4283
+									]
+								],
+								"settings":
+								{
+									"git_gutter_is_enabled": true,
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+									"touched": 1600333121.06,
+									"word_wrap": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 672.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 3,
+							"file": "/home/toshio/work/docs/docs/tables/make_table_definition.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1443,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1227,
+										1227
+									]
+								],
+								"settings":
+								{
+									"clone_numbers": 1,
+									"git_gutter_is_enabled": true,
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+									"touched": 1600333165.79
+								},
+								"translation.x": 0.0,
+								"translation.y": 225.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 37.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						0,
+						1,
+						1,
+						2
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					0.5,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 70.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,537,0,1916,1013,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 68.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 213.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 7,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"set",
+						"setdefault\tabc"
+					],
+					[
+						"load",
+						"load_from_s3\tabc"
+					],
+					[
+						"Di",
+						"DictReader\tabc"
+					],
+					[
+						"mode",
+						"models\tabc"
+					],
+					[
+						"list",
+						"list_buckets\t(load_from_s3.py)"
+					],
+					[
+						"__",
+						"__name__\t(load_from_s3.py)"
+					],
+					[
+						"tru",
+						"True"
+					],
+					[
+						"sq",
+						"sqlite-autoconf-3330000\tabc"
+					],
+					[
+						"def",
+						"def\tFunction"
+					],
+					[
+						"Offi",
+						"OfficeModifyStatus\tabc"
+					],
+					[
+						"offic",
+						"office_code\tabc"
+					],
+					[
+						"com",
+						"company\tabc"
+					],
+					[
+						"off",
+						"office_code\tabc"
+					],
+					[
+						"on",
+						"on_delete=models.CASCADE\t(CompanyModifyStatus.py)"
+					],
+					[
+						"st",
+						"status\t(Office.py)"
+					],
+					[
+						"sta",
+						"status\tabc"
+					],
+					[
+						"Com",
+						"CompanyModifyStatus"
+					],
+					[
+						"are",
+						"area_code\tabc"
+					],
+					[
+						"city",
+						"city_code\tabc"
+					],
+					[
+						"Compa",
+						"CompanyModifyStatus\tabc"
+					],
+					[
+						"assert",
+						"assertRaises\t(test_CompanyModifyStatus.py)"
+					],
+					[
+						"update",
+						"update_datetime\t(CompanyModifyStatus.py)"
+					],
+					[
+						"Pro",
+						"PROTECT\t(CensusTargetOffice.py)"
+					],
+					[
+						"cs",
+						"cls\tabc"
+					],
+					[
+						"Hist",
+						"HIstoricalRecords\tabc"
+					],
+					[
+						"sim",
+						"simple_history\t(settings.py)"
+					],
+					[
+						"null",
+						"nullable\tabc"
+					],
+					[
+						"if",
+						"ifmain\tif __name__ == '__main__'"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/toshio/work/backend/kakunin-backend/app/models/OriginalCensusTargetOffice.py",
+					"settings":
+					{
+						"buffer_size": 3455,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/toshio/work/backend/docker.sh",
+					"settings":
+					{
+						"buffer_size": 734,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/toshio/work/backend/kakunin-backend/Inquiry/settings.py",
+					"settings":
+					{
+						"buffer_size": 7957,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/toshio/work/backend/Dockerfile",
+					"settings":
+					{
+						"buffer_size": 564,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "version: \"3.8\"\nservices:\n\n  redis:\n    image: redis:alpine\n    ports:\n      - \"6379\"\n    networks:\n      - frontend\n    deploy:\n      replicas: 2\n      update_config:\n        parallelism: 2\n        delay: 10s\n      restart_policy:\n        condition: on-failure\n\n  db:\n    image: postgres:9.4\n    volumes:\n      - db-data:/var/lib/postgresql/data\n    networks:\n      - backend\n    deploy:\n      placement:\n        max_replicas_per_node: 1\n        constraints:\n          - \"node.role==manager\"\n\n  vote:\n    image: dockersamples/examplevotingapp_vote:before\n    ports:\n      - \"5000:80\"\n    networks:\n      - frontend\n    depends_on:\n      - redis\n    deploy:\n      replicas: 2\n      update_config:\n        parallelism: 2\n      restart_policy:\n        condition: on-failure\n\n  result:\n    image: dockersamples/examplevotingapp_result:before\n    ports:\n      - \"5001:80\"\n    networks:\n      - backend\n    depends_on:\n      - db\n    deploy:\n      replicas: 1\n      update_config:\n        parallelism: 2\n        delay: 10s\n      restart_policy:\n        condition: on-failure\n\n  worker:\n    image: dockersamples/examplevotingapp_worker\n    networks:\n      - frontend\n      - backend\n    deploy:\n      mode: replicated\n      replicas: 1\n      labels: [APP=VOTING]\n      restart_policy:\n        condition: on-failure\n        delay: 10s\n        max_attempts: 3\n        window: 120s\n      placement:\n        constraints:\n          - \"node.role==manager\"\n\n  visualizer:\n    image: dockersamples/visualizer:stable\n    ports:\n      - \"8080:8080\"\n    stop_grace_period: 1m30s\n    volumes:\n      - \"/var/run/docker.sock:/var/run/docker.sock\"\n    deploy:\n      placement:\n        constraints:\n          - \"node.role==manager\"\n\nnetworks:\n  frontend:\n  backend:\n\nvolumes:\n  db-data:",
+					"settings":
+					{
+						"buffer_size": 1763,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"commit",
+						"Git: Commit"
+					],
+					[
+						"add",
+						"Git: Add..."
+					],
+					[
+						"docker",
+						"Set Syntax: Dockerfile"
+					],
+					[
+						"git push",
+						"Git: Push"
+					],
+					[
+						"git co",
+						"Git: Commit"
+					],
+					[
+						"git add",
+						"Git: Add..."
+					],
+					[
+						"model",
+						"Snippet: Model"
+					],
+					[
+						"git comm",
+						"Git: Commit"
+					],
+					[
+						"git com",
+						"Git: Commit"
+					],
+					[
+						"git",
+						"Git: Diff Current File"
+					],
+					[
+						"git commit",
+						"Git: Commit"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"markdow",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"install package",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/toshio/work/backend",
+				"/home/toshio/work/backend/kakunin-backend",
+				"/home/toshio/work/backend/kakunin-backend/app",
+				"/home/toshio/work/backend/kakunin-backend/app/models",
+				"/home/toshio/work/backend/kakunin-backend/app/tests",
+				"/home/toshio/work/backend/kakunin-backend/batches",
+				"/home/toshio/work/backend/kakunin-backend/batches/tests",
+				"/home/toshio/work/backend/kakunin-backend/Inquiry"
+			],
+			"file_history":
+			[
+				"/home/toshio/work/backend/kakunin-backend/app/tests/__init__.py",
+				"/home/toshio/work/backend/Dockerfile",
+				"/home/toshio/work/backend/docker.sh",
+				"/home/toshio/work/backend/kakunin-backend/load_from_s3.py",
+				"/home/toshio/work/backend/kakunin-backend/batches/healthcheck.py",
+				"/home/toshio/work/backend/docker-compose.yml",
+				"/home/toshio/work/backend/kakunin-backend/batches/tests/test_s3.py",
+				"/home/toshio/work/backend/kakunin-backend/app/models/OriginalCensusTargetOffice.py",
+				"/home/toshio/work/backend/kakunin-backend/Pipfile",
+				"/home/toshio/work/backend/kakunin-backend/batches/tests/__init__.py",
+				"/home/toshio/work/backend/kakunin-backend/healthcheck.py",
+				"/home/toshio/work/backend/kakunin-backend/batches/load_from_s3.py",
+				"/home/toshio/work/backend/kakunin-backend/test.py",
+				"/home/toshio/work/backend/healthcheck.py",
+				"/home/toshio/work/backend/kakunin-backend/app/models/CompanyModifyStatus.py",
+				"/home/toshio/work/backend/kakunin-backend/Inquiry/settings.py",
+				"/home/toshio/work/backend/my.cnf",
+				"/home/toshio/work/backend/kakunin-backend/app/models/__init__.py",
+				"/home/toshio/work/backend/init.sql",
+				"/home/toshio/work/backend/load_from_s3.py",
+				"/home/toshio/work/kakunin-backend/app/models/__init__.py",
+				"/home/toshio/work/kakunin-backend/app/migrations/0001_initial.py",
+				"/home/toshio/work/kakunin-backend/detail.log",
+				"/home/toshio/work/kakunin-backend/app/tests/test_CompanyModifyStatus.py",
+				"/home/toshio/work/kakunin-backend/app/models/CompanyModifyStatus.py",
+				"/home/toshio/work/kakunin-backend/app/tests/test_Office.py",
+				"/home/toshio/work/kakunin-backend/app/tests/test_CensusTargetOffice.py",
+				"/home/toshio/work/kakunin-backend/app/models/Company.py",
+				"/home/toshio/work/kakunin-backend/app/models/Office.py",
+				"/home/toshio/work/kakunin-backend/app/tests/test_OriginalCensusTargetOffice.py",
+				"/home/toshio/work/kakunin-backend/app/tests/test_Company.py",
+				"/home/toshio/work/kakunin-backend/app/models/CensusTargetOffice.py",
+				"/home/toshio/work/kakunin-backend/Inquiry/settings.py",
+				"/home/toshio/work/kakunin-backend/app/views.py",
+				"/home/toshio/work/kakunin-backend/app/urls.py",
+				"/home/toshio/work/kakunin-backend/app/tests/test_company.py",
+				"/home/toshio/.zshrc",
+				"/home/toshio/work/kakunin-backend/Pipfile",
+				"/home/toshio/work/docs/docs/tables/make_table_definition.py",
+				"/home/toshio/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/toshio/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/toshio/.gitconfig",
+				"/home/toshio/work/Kakunin-web/.git/config"
+			],
+			"find":
+			{
+				"height": 25.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"\\t"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"from",
+					"  "
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/toshio/work/backend"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/toshio/work/backend/kakunin-backend/app/models/OriginalCensusTargetOffice.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3455,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										305,
+										305
+									]
+								],
+								"settings":
+								{
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+									"tab_size": 4,
+									"touched": 1600796539.79,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/toshio/work/backend/docker.sh",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 734,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										673,
+										673
+									]
+								],
+								"settings":
+								{
+									"git_gutter_is_enabled": false,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/ShellScript/Bash.sublime-syntax",
+									"tab_size": 2,
+									"touched": 1600796900.18,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 2,
+							"file": "/home/toshio/work/backend/kakunin-backend/Inquiry/settings.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7957,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1163,
+										1163
+									]
+								],
+								"settings":
+								{
+									"git_gutter_is_enabled": true,
+									"is_init_dirty_state": false,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+									"tab_size": 4,
+									"touched": 1600790676.68,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 384.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/toshio/work/backend/Dockerfile",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 564,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										551,
+										551
+									]
+								],
+								"settings":
+								{
+									"git_gutter_is_enabled": false,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Dockerfile Syntax Highlighting/Syntaxes/Dockerfile.sublime-syntax",
+									"touched": 1600790833.42
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1763,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										936,
+										936
+									]
+								],
+								"settings":
+								{
+									"default_dir": "/home/toshio/work/backend",
+									"git_gutter_is_enabled": false,
+									"is_init_dirty_state": true,
+									"syntax": "Packages/YAML/YAML.sublime-syntax",
+									"tab_size": 2,
+									"touched": 1600736364.77,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 528.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 37.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 284.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 114.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,491,0,1916,1013,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 68.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 199.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 13,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

@@ -5,10 +5,18 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
+		"All Autocomplete",
 		"ConvertToUTF8",
+		"Djaneiro",
+		"Dockerfile Syntax Highlighting",
 		"Emacs Pro Essentials",
+		"Git",
+		"GitGutter",
+		"MarkdownPreview",
 		"Package Control",
 		"SideBarEnhancements",
-		"SublimeLinter"
+		"SublimeLinter",
+		"TrailingSpaces"
 	]
 }
